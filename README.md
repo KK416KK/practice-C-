@@ -1,2 +1,1 @@
-# practice-C-
-practice
+買ったものを管理するプログラム
